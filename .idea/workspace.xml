@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe2a645-9a58-43da-ad13-1c328caa8740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ag-ca-an.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/AgeCalculatorApp.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/AgeCalculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/MainActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/MainActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/jarlist.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-ldpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/resources.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gen/com/example/agecalculatorapp/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gen/com/example/agecalculatorapp/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-hdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-ldpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-mdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-xhdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/menu/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/values-v11/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/values-v14/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/agecalculatorapp/AgeCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/agecalculatorapp/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.project">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.classpath">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/agecalculatorapp/AgeCalculation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-874" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/agecalculatorapp/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_action_search.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/Thumbs.db">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gen/com/example/agecalculatorapp/BuildConfig.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gen/com/example/agecalculatorapp/R.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#1343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/proguard-project.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="792" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe2a645-9a58-43da-ad13-1c328caa8740" name="Default Changelist" comment="" />
+      <created>1572268620976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572268620976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="792" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980973" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" sideWeight="0.49964765" visible="true" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003524" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyAPP" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyAPP" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/AgeCalculation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/BuildConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/MainActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/classes/com/example/agecalculatorapp/R.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/AgeCalculatorApp.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/classes.dex">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/jarlist.cache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ic_launcher-web.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/agecalculatorapp/AgeCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/agecalculatorapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/Thumbs.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_action_search.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/Thumbs.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/example/agecalculatorapp/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/example/agecalculatorapp/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#1343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
